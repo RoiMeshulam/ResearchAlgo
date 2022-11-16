@@ -1,0 +1,10 @@
+abc-d@mail.com abc.def@mail.com abc@mail.com abc_def@mail.com
+
+abc-@mail.com abc..def@mail.com .abc@mail.com abc#def@mail.com
+
+hello everyone i'm roi meshulam my email is: rohimesh@walla.com or rohimesh21@gmail.com
+
+abc.def@mail.c abc.def@mail#archive.com abc.def@mail abc.def@mail..com
+
+abc.def@mail.cc abc.def@mail-archive.com abc.def@mail.org abc.def@mail.com
+
